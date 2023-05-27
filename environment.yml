@@ -6,4 +6,3 @@ dependencies:
   - toolz
   - matplotlib
   - dill
-  - pandas
