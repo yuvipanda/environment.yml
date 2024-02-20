@@ -6,3 +6,4 @@ dependencies:
   - toolz
   - matplotlib
   - dill
+  - xeus-python
